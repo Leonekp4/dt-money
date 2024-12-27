@@ -1,0 +1,25 @@
+/** No terminal
+ * npm create vita@latest -> (y)
+ * Project name: » vite-project (nome do projeto) -> react -> TypeScript
+ * cd dt-money -> para abrir o arquivo
+ *
+ * 
+*/
+
+
+/** instalando dependencias
+ * npm i
+ * npm i styled-components
+ * npm i @types/styled-components -D
+ * 
+ * 
+*/
+
+/** instalando bibliotecas
+ * npm i phosphor-react = icones
+ *
+ *
+*/
+
+
+
