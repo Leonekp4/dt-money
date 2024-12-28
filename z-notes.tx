@@ -17,7 +17,8 @@
 
 /** instalando bibliotecas
  * npm i phosphor-react = icones
- *
+ * npm install @radix-ui/react-dialog - acessibilidade 
+ * npm install @radix-ui/react-radio-group -  
  *
 */
 
