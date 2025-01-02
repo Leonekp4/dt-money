@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-12-29T11:01:37.552Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 150,
+      "createdAt": "2024-12-29T11:50:37.552Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1950,
+      "createdAt": "2024-12-29T11:50:37.552Z"
+    },
+    {
+      "id": "3",
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2025-01-01T23:59:06.882Z"
+    },
+    {
+      "id": "4",
+      "description": "fd",
+      "price": 454,
+      "category": "fg",
+      "type": "outcome",
+      "createdAt": "2025-01-02T00:13:04.849Z"
+    },
+    {
+      "id": "412c",
+      "description": "Iogurte ",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-01-02T00:45:02.511Z"
+    },
+    {
+      "id": "b057",
+      "description": "as",
+      "price": 654,
+      "category": "assa",
+      "type": "income",
+      "createdAt": "2025-01-02T00:45:42.350Z"
+    },
+    {
+      "id": "f72c",
+      "description": "ewqe",
+      "price": 565,
+      "category": "sda",
+      "type": "outcome",
+      "createdAt": "2025-01-02T00:46:51.762Z"
+    }
+  ]
+}

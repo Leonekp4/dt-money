@@ -19,8 +19,37 @@
  * npm i phosphor-react = icones
  * npm install @radix-ui/react-dialog - acessibilidade 
  * npm install @radix-ui/react-radio-group -  
- *
+ * npm i react-hook-form - para formularios
+ * npm i zod - para validação de dados
+ * npm i @hookform/resolvers - para resolver a validação de dados
+ * npm i axios - para requisições
+ * 
+ * 
 */
 
+/** Instalando servidor Json = Back-end
+ * npm i json-server -D
+ * npx json-server server.json - redirecionando o Json para o servidor server.json
+ * 
+ * 
+*/
 
+/** Tags
+ * Iniciando com "handle", é disparada pelo usuário
+ * Iniciando com "search", é disparada pela aplicação / evento
+ * 
+ * 
+*/
 
+/** Formatação
+ *  npm i eslint @rocktseat/eslint-config -D -
+ *  
+ * 
+ * 
+*/
+
+É o valor inicial do reduce, onde podemos alterá-lo entre iterações para poder acumular valores.
+
+É uma função que tem acesso a recursos do React dentro dela, como estado ou outros hooks.
+
+Para adicionar comportamentos de formulário à inputs personalizados, que não são nativos do HTML, onde temos diferentes formas de recuperar e alterar seu valor.
