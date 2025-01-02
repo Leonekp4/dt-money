@@ -63,6 +63,14 @@
       "category": "sda",
       "type": "outcome",
       "createdAt": "2025-01-02T00:46:51.762Z"
+    },
+    {
+      "id": "2ed0",
+      "description": "wew",
+      "price": 457,
+      "category": "jgdgsa",
+      "type": "outcome",
+      "createdAt": "2025-01-02T13:25:57.679Z"
     }
   ]
 }

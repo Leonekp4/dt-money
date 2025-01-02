@@ -23,6 +23,7 @@
  * npm i zod - para validação de dados
  * npm i @hookform/resolvers - para resolver a validação de dados
  * npm i axios - para requisições
+ * npm i use-context-selector scheduler - para contexto
  * 
  * 
 */
@@ -47,9 +48,3 @@
  * 
  * 
 */
-
-É o valor inicial do reduce, onde podemos alterá-lo entre iterações para poder acumular valores.
-
-É uma função que tem acesso a recursos do React dentro dela, como estado ou outros hooks.
-
-Para adicionar comportamentos de formulário à inputs personalizados, que não são nativos do HTML, onde temos diferentes formas de recuperar e alterar seu valor.
